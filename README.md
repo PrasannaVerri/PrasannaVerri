@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋,I'm PrasannaVerri
 
-<!--
-**PrasannaVerri/PrasannaVerri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Data Structures Enthusiast
+I am a Data Analaytics Intern passionate about transforming raw data into actionable business insights.
+---
+### Technical Tollbox
+*   **Languages:** python,SQL
+*   **Data visulization:** excel,google sheets
+*   **Developer Tools:** Git,Github,vscode
 
-Here are some ideas to get you started:
+### currently Focus & Metrics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:**html**
+- 🌱 I’m currently learning :**Data Analaytics**
+- 👯 I’m looking to collaborate on:**open-source data analytics or data engineering projects**
+
+- ### connect with me
+
+- **LinkedIn:** https//www.Linkedin/Prasanna Verri
+- **Email:** prasannaVerri@gmailcom
+-  ...
